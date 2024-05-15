@@ -27,7 +27,4 @@ if st.button("Predict Fault"):
   else:
     st.error("Fault Detected!")
 
-# Additional information (optional)
-st.write("**Note:**")
-st.write("- This is a basic example. Real-world applications might involve data preprocessing and scaling.")
-st.write("- Ensure your model is trained on data with similar characteristics as your input.")
+
